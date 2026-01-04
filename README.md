@@ -12,13 +12,9 @@
 
 ## Indice
 
-- [About](#about)
 - [Funzionalità](#funzionalità)
-- [Tech Stack](#tech-stack)
 - [Installazione](#installazione)
-- [Struttura del Progetto](#struttura-del-progetto)
 - [Ruoli e Permessi](#ruoli-e-permessi)
-- [API Principali](#api-principali)
 
 ---
 
